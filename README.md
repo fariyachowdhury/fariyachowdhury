@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Fariya! 👋
+Problem Solver & Developer | Leveling up on Codeforces 🚀 | Game Dev Enthusiast.
+
 
 <!--
 **fariyachowdhury/fariyachowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
