@@ -1,5 +1,5 @@
 # Hi, I'm Fariya! 👋
-Problem Solver & Developer | Leveling up on Codeforces 🚀 | Game Dev Enthusiast.
+Problem Solver & Developer(newbe) | | Game Dev Enthusiast.
 
 
 <!--
