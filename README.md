@@ -1,5 +1,5 @@
 # Hi, I'm Fariya! 👋
-Problem Solver & Developer(newbe) | | Game Dev Enthusiast.
+Problem Solver & Developer(newbie) | | Game Dev Enthusiast.
 
 
 <!--
